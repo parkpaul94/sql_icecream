@@ -1,0 +1,17 @@
+{
+  "name": "unsolved",
+  "version": "1.0.0",
+  "description": "",
+  "main": "icecream.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node icecream.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "inquirer": "^5.2.0",
+    "mysql2": "^1.5.3",
+    "sequelize": "^4.37.6"
+  }
+}
